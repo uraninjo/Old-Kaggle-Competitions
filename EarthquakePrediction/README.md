@@ -7,3 +7,5 @@ The training data is a single, continuous segment of experimental data. The test
 For each seg_id in the test folder, you should predict a single time_to_failure corresponding to the time between the last row of the segment and the next laboratory earthquake.
 
 ## https://www.kaggle.com/competitions/LANL-Earthquake-Prediction/overview
+
+Yarışma için skor, hesaplanan özelliklerin arttırılması ve train.csv'den okunan verilerin arttırılmasıyla artacaktır fakat benim bilgisayarım arttırdığımda hata veriyor. Şimdilik fikir ve verinin nasıl işleneceği, anlamak için yeterlidir.
